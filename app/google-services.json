@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "115793575269",
+    "firebase_url": "https://sdpd-communication.firebaseio.com",
+    "project_id": "sdpd-communication",
+    "storage_bucket": "sdpd-communication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115793575269:android:cb112dd9e707711c",
+        "android_client_info": {
+          "package_name": "com.example.rashminpc.android_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115793575269-ae02vbh12l93i9ibkd0l5nk6sor4vj2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rashminpc.android_firebase",
+            "certificate_hash": "37a5de25175bd67f37d5cd6a03cbc9ab67c4e830"
+          }
+        },
+        {
+          "client_id": "115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpim03O0HGKqvHZWnvatj9iJAMmg44Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115793575269:android:cf9c7e94fc3cb7df",
+        "android_client_info": {
+          "package_name": "com.example.rashminpc.firebase_arduino_android_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115793575269-s66kgvhslmficcgh5052o89agh3nhl51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rashminpc.firebase_arduino_android_demo_app",
+            "certificate_hash": "37a5de25175bd67f37d5cd6a03cbc9ab67c4e830"
+          }
+        },
+        {
+          "client_id": "115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpim03O0HGKqvHZWnvatj9iJAMmg44Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115793575269:android:7e659d67d707f95c",
+        "android_client_info": {
+          "package_name": "com.redhotpepper.sdpd_try2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115793575269-s26r4gqc9bgcm025g2b06mkpq5080ipp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redhotpepper.sdpd_try2",
+            "certificate_hash": "37a5de25175bd67f37d5cd6a03cbc9ab67c4e830"
+          }
+        },
+        {
+          "client_id": "115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpim03O0HGKqvHZWnvatj9iJAMmg44Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115793575269-dk8tps10m39ua4d15sol7jv3n7hqu8oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
